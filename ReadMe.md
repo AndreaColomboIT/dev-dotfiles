@@ -2,7 +2,5 @@
 
 
 # Bash Setup
----
 
 # Nvim Setup
----
