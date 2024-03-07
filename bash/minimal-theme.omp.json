@@ -20,12 +20,12 @@
           "type": "path"
         },
         {
-          "foreground": "#a0b9d8",
+          "foreground": "#cf8164",
           "properties": {
             "branch_icon": ""
           },
           "style": "plain",
-          "template": "<#a0b9d8>:(</>{{ .HEAD }}<#cf8164>)</>",
+          "template": "<#a0b9d8>git:(</>{{ .HEAD }}<#a0b9d8>)</>",
           "type": "git"
         },
         {
