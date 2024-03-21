@@ -18,9 +18,8 @@ return {
 				[[                                                                                                                ]],
 			},
 			directories = {
-				"~/Development/1.Backend/",
-				"~/Development/2.Frontend/",
-				"~/Development/3.Notes/",
+				"~/ComputerScience/00-09-Notes/",
+				"~/ComputerScience/10-19-Projects/",
 				"~/.config/nvim",
 			},
 		})

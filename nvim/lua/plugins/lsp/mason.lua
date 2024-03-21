@@ -25,6 +25,7 @@ return {
 				"tsserver",
 				"emmet_ls",
 				"pyright",
+				"marksman",
 			},
 			automatic_installation = true,
 		})

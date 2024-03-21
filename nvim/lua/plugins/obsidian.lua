@@ -10,16 +10,8 @@ return {
 		require("obsidian").setup({
 			workspaces = {
 				{
-					name = "Software Wiki",
-					path = "~/Development/3.Notes/Software-Wiki/",
-				},
-				{
-					name = "CS-Degree",
-					path = "~/Development/3.Notes/CS-Degree/",
-				},
-				{
-					name = "Planner",
-					path = "~/Development/3.Notes/Planner/",
+					name = "CS Notes",
+					path = "~/ComputerScience/00-09-Notes/",
 				},
 			},
 		})
